@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : # "Luisa Cefala"
   avatar           : # "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
-  location         :  "Berkeley, CA"
+  location         : # "Berkeley, CA"
   employer         :
   pubmed           :
   googlescholar    :
