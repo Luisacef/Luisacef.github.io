@@ -15,6 +15,9 @@ Working paper (*E-mail for draft*)
 **Habit formation and labor supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
 Working paper (*E-mail for draft*)
 
+**Knowledge hoarding and diffusion of profitable technologies** with Franck Irakoze, [Pedro Naso](https://pedronaso.com/economics/), and [Nick Swanson](https://nicholasgswanson.github.io)\
+In progress
+
 **The effects of short-term liquidity availability: evidence from the Earned Wage Access technology**  with [Eric Koepcke](https://ekoepcke.github.io) and [Nick Swanson](https://nicholasgswanson.github.io)\
 Analysis stage
 
