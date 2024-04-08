@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## In progress 
-**[Under-training by employers in informal labor markets: evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io)\
-Working paper (*E-mail for draft*) 
+**[Under-training by employers in informal labor markets: evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io) \
 
 **Habit formation and labor supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
 Working paper (*E-mail for draft*)
