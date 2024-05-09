@@ -16,4 +16,4 @@ I work on behavioral and labor economics topics, mainly in low-income countries.
 
 If you'd like to contact me, you can email luisa.cefala[at]berkeley.edu. 
 
-You can find my CV [here](files/LC-CV_202405.pdf).
+You can find my CV [here](../files/LC-CV_202405.pdf).
