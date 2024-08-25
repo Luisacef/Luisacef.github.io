@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/picture.jpg" width="300">I am a Post-Doctoral Fellow at the Haas School of Business, UC Berkeley, under the supervision of Professor Ulrike Malmendier.
+<img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/jm-shot.jpg" width="320">I am a Post-Doctoral Fellow at the Haas School of Business, UC Berkeley, under the supervision of Professor Ulrike Malmendier. *I will be on the Academic Job Market in Fall 2024*
 
 I completed my Ph.D. in Economics at the University of California, Berkeley, in 2023. 
 
