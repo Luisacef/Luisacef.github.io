@@ -8,17 +8,19 @@ redirect_from:
 
 {% include base_path %}
 
-## In progress 
-**[Under-training by employers in informal labor markets: evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io)
+## Job Market Paper
+**The Economic Consequences of Knowledge Hoarding** with Franck Irakoze, [Pedro Naso](https://pedronaso.com/economics/), and [Nick Swanson](https://nicholasgswanson.github.io)\
+Draft coming soon
 
-**Habit formation and labor supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
+## Other working papers
+**[Under-training by Employers in Informal Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io)
+
+**Habit Formation in Labor Supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
 Working paper (*E-mail for draft*)
 
-**Knowledge hoarding and diffusion of profitable technologies** with Franck Irakoze, [Pedro Naso](https://pedronaso.com/economics/), and [Nick Swanson](https://nicholasgswanson.github.io)\
-In progress
 
-**The effects of short-term liquidity availability: evidence from the Earned Wage Access technology**  with [Eric Koepcke](https://ekoepcke.github.io) and [Nick Swanson](https://nicholasgswanson.github.io)\
-Analysis stage
+**The Effects of Short-term Liquidity Availability: Evidence from the Earned Wage Access Technology**  with [Eric Koepcke](https://ekoepcke.github.io), [Afras Sial](https://afras-sial.github.io) and [Nick Swanson](https://nicholasgswanson.github.io)\
+Draft coming soon
 
 **Self-image concerns, memory bias, and over-optimism over labor supply decisions** with Vasanthi Subramonia Pillai\
-In progress
+On hold
