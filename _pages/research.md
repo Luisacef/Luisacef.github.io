@@ -12,12 +12,11 @@ redirect_from:
 **The Economic Consequences of Knowledge Hoarding** with [Franck Irakoze](https://www.linkedin.com/in/franck-irakoze-197028213/?originalSubdomain=bi), [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io)\
 Draft coming soon
 
-## Other Working Papers
+## Working Papers
 **[Under-training by Employers in Informal Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io)
 
 **Habit Formation in Labor Supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
 Working paper (*E-mail for draft*)
-
 
 **How Do Workers Use Earned Wage Access? Evidence and Welfare Implications**  with [Eric Koepcke](https://ekoepcke.github.io), [Afras Sial](https://afras-sial.github.io) and [Nick Swanson](https://nicholasgswanson.github.io) \
 Draft coming soon
