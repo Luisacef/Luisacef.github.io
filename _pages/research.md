@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Job Market Paper
-**The Economic Consequences of Knowledge Hoarding** with Franck Irakoze, [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io)\
+**The Economic Consequences of Knowledge Hoarding** with [Franck Irakoze](https://www.linkedin.com/in/franck-irakoze-197028213/?originalSubdomain=bi), [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io)\
 Draft coming soon
 
 ## Other Working Papers
