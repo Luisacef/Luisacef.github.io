@@ -27,9 +27,3 @@ Data access secured
 
 **Free-Riding and New Product Adoption: Evidence from Burundi** with [Grady Killeen](https://gkilleen33.github.io), [Rédempteur Ntawiratsa](https://orcid.org/0000-0003-1948-7798) and [Nicholas Swanson](https://nicholasgswanson.github.io) \
 Pilot in progress
-
-<!---
-**Self-image Concerns, Memory Bias, and Over-optimism over Labor Supply Decisions** with [Vrinda Kapoor](https://www.linkedin.com/in/vrindakapoor/) and [Vasanthi Subramonia Pillai](https://www.hfp.tum.de/en/globalhealth/team/vasanthi-subramonia-pillai/) \
-On hold
----!>
-
