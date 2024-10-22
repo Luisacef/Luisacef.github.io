@@ -13,7 +13,7 @@ redirect_from:
 I am a Post-Doctoral Fellow at the Haas School of Business, UC Berkeley, working with Professor Ulrike Malmendier. I completed my Ph.D. in Economics at the University of California, Berkeley, in 2023. I work on behavioral and labor economics topics, mainly in low-income countries.
 You can find my CV [here](../files/LC_CV, 20241021.pdf).
 
-**I will be on the Academic Job Market in Fall 2024** \
+**I will be on the Academic Job Market in Fall 2024**
 
 You can contact me at luisa.cefala[at]berkeley.edu. 
 
