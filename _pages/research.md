@@ -32,6 +32,7 @@ _Abstract:_ : Economists have long hypothesized the presence of hysteresis in la
  <br/>
 </details> 
 
+
 **How Do Workers Use Earned Wage Access? Evidence and Welfare Implications**  with [Eric Koepcke](https://ekoepcke.github.io), [Afras Sial](https://afras-sial.github.io) and [Nick Swanson](https://nicholasgswanson.github.io) \
 Draft coming soon
 <details>
@@ -39,6 +40,7 @@ Draft coming soon
 Earned Wage Access (EWA)--a financial technology that gives workers access to their wages as they are earned, rather than having to wait until payday--can benefit workers by providing cheap, short-term liquidity. However, when workers have self-control problems or biased beliefs, particularly about their future earnings and liquidity shocks, they may use this technology suboptimally, resulting in overconsumption. We partner with an EWA fintech firm to quantify these trade-offs using administrative data on earnings and EWA usage, in conjunction with a survey experiment. We find that workers systematically over-predict their future earnings, under-predict their future EWA usage, demand incentives to reduce their EWA usage, and are unable to predict future wage shocks. Using quasi-experimental variation in these wage shocks, we document that workers significantly increase their EWA usage in response to positive wage shocks in both their most recent paycheck and their next paycheck, which determines the amount they can withdraw. Using changes in withdrawal fees, we find patterns consistent with partial sophistication about self-control problems. We organize these facts in a consumption-savings model at the daily level, with workers with biased beliefs and partial awareness of their self-control problems. The estimates from our model imply that EWA increases worker’s welfare on net, but that regulations such as fees and withdrawal limits can further enhance welfare.
   <br/>
 </details> 
+
 
 
 ## Work in Progress
