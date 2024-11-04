@@ -7,23 +7,21 @@ redirect_from:
 ---
 
 ## Job Market Paper
-**The Economic Consequences of Knowledge Hoarding** with [Franck Irakoze](https://www.linkedin.com/in/franck-irakoze-197028213/?originalSubdomain=bi), [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io)\
+**The Economic Consequences of Knowledge Hoarding** with [Franck Irakoze](https://www.linkedin.com/in/franck-irakoze-197028213/?originalSubdomain=bi), [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io) \
 Draft coming soon
 
 _Abstract:_ The diffusion of new technologies is critical for economic growth, but may depend on the incumbents' incentives to share or hoard their knowledge. In cross-sectional data from rural Burundi, we first document that the level of social diffusion for a given agricultural technology is starkly higher when its returns are non-rival (_i.e._, unaffected by how many others adopt it).  We then test whether knowledge hoarding drives the lack of diffusion of a specific high-return technology-- row planting, which generates rival rents through a wage premium in the local labor market. In a field experiment covering 220 villages (labor markets), we induce workers skilled in row planting to train unskilled workers. We randomize at the local labor market level whether the unskilled is a competitor (_i.e._, someone from the same labor market). When incumbents are matched with someone from the same labor market, knowledge transmission occurs only 3% of the time, but reaches 43% if the unskilled are not competitors. In contrast, the transmission of technologies with non-rival rents (_e.g._, composting) is high regardless of the unskilled worker's identity. Consistent with strategic behavior, the incumbent appears to obfuscate important aspects of row planting when training competitors. We then examine the aggregate and distributional consequences of knowledge hoarding in the village economy. In villages where the unskilled were trained in row planting by non-competitors, diffusion creates winners and losers: the earnings of the unskilled workers rise by 7%, and farm productivity by 20%. However, skilled workers’ earnings decrease by 6%, and the equilibrium wage for the row planting task falls by 3%. Reducing knowledge hoarding boosts overall village output: the days of row planting employment are 16% higher, and the share of row planted fields increases by 27%, suggesting estimated yield gains of 9%. Finally, our results also suggest that the fear of social sanctions is a mechanism that sustains knowledge hoarding among the incumbents, highlighting how social ties can foster social learning, but also inhibit it when incumbents' rents are threatened by knowledge diffusion.
 
 
 ## Working Papers
-**[Under-training by Employers in Informal Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io)
+**[Under-training by Employers in Informal Labor Markets: Evidence from Burundi](https://drive.google.com/file/d/1Qs4fdx38cEGLkc-51g_R_CooeZZEwHtr/view)** with [Pedro Naso](https://pedronaso.com/economics/), [Michel Ndayikeza](https://sites.google.com/view/michelndayikeza), and [Nick Swanson](https://nicholasgswanson.github.io) <br/> 
 <details>
   <summary>Click to view abstract</summary>
 Workers obtain limited human capital through on-the-job experience in low- and middle-income countries, but the reasons for this are unclear. We test whether one friction contributes to low worker productivity: firms unwillingness to train because they do not appropriate the returns from training. We study casual labor markets in Burundi, where employers can train workers in a newly introduced agricultural practice in the region, row-planting--a technique that substantially raises yields.  In a first field experiment, in some randomly selected local labor markets (villages), we induce 1/3 of employers to train workers in row planting--leading to a 20-percentage point increase in the share of skilled workers in the village. Training generates meaningful economic returns: employers in treated villages increase their adoption of row-planting by 10 percentage points (20%)--raising farm profitability by 9%. However, employers fail to appropriate most of this surplus: 2/3 of the surplus generated is captured by non-training employers, because many of the trained workers work for others following training. In a second experiment, we randomize employers into a condition that increases the likelihood that the worker will return to work for the employer in the future. Employers receiving this guarantee are 50 percentage points more likely to train the worker. This suggests the wedge between private and social returns from investments meaningfully reduces worker productivity.
  <br/>
 </details>
 
-
-
-**Habit Formation in Labor Supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/) \
+**Habit Formation in Labor Supply** with [Supreet Kaur](https://www.supreetkaur.com), [Heather Schofield](https://heatherschofield.net), and [Yogita Shamdasani](https://sites.google.com/site/yogitashamdasani/)  <br/> 
 Working paper (*E-mail for draft*)
 <details>
   <summary>Click to view abstract</summary>
@@ -32,8 +30,7 @@ Economists have long hypothesized the presence of hysteresis in labor supply: tr
 </details>
 
 
-
-**How Do Workers Use Earned Wage Access? Evidence and Welfare Implications**  with [Eric Koepcke](https://ekoepcke.github.io), [Afras Sial](https://afras-sial.github.io) and [Nick Swanson](https://nicholasgswanson.github.io) \
+**How Do Workers Use Earned Wage Access? Evidence and Welfare Implications**  with [Eric Koepcke](https://ekoepcke.github.io), [Afras Sial](https://afras-sial.github.io) and [Nick Swanson](https://nicholasgswanson.github.io)  <br/> 
 Draft coming soon
 <details>
   <summary>Click to view abstract</summary>
