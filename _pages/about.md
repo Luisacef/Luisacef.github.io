@@ -10,7 +10,7 @@ redirect_from:
 
 <img class="img-responsive" style="float: left; margin: 10px 20px 20px 10px;" src="/images/jm-shot.jpg" width="350">
 
-I am a Post-Doctoral Fellow at the Haas School of Business, UC Berkeley, working with Professor Ulrike Malmendier. I completed my Ph.D. in Economics at the University of California, Berkeley, in 2023. I work on behavioral and labor economics topics, mainly in low-income countries.
+I am a Post-Doctoral Fellow at the Haas School of Business, UC Berkeley, working with Professor Ulrike Malmendier. I completed my Ph.D. in Economics at the University of California, Berkeley, in 2023. I am a development economist, working on behavioral and labor economic topics.
 You can find my CV [here](../files/LC-CV.pdf).
 
 **I will be on the Academic Job Market in Fall 2024**
