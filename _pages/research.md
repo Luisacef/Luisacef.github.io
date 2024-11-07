@@ -6,6 +6,8 @@ redirect_from:
   - /research.html
 ---
 
+{% include base_path %}
+
 ## Job Market Paper
 **[The Economic Consequences of Knowledge Hoarding](https://drive.google.com/file/d/1eMtxnoDC_4CUh4qOOSvvBXxBqXJdJrH1/view?usp=share_link)** with [Franck Irakoze](https://www.linkedin.com/in/franck-irakoze-197028213/?originalSubdomain=bi), [Pedro Naso](https://pedronaso.com/economics/), and [Nicholas Swanson](https://nicholasgswanson.github.io) <br/> 
 
