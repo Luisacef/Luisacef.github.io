@@ -42,8 +42,10 @@ Earned Wage Access (EWA)--a financial technology that gives workers access to th
 </details> <br/> 
 
 ## Work in Progress
-**The Long-Term Consequences of Exposure to Childhood Trauma** with [Hadar Avivi](https://avivihadar.github.io), [Ulrike Malmendier](https://haas.berkeley.edu/faculty/malmendier-ulrike/) and [Maor Milgrom](https://sites.google.com/view/maormilgrom) <br/> 
-Data access secured
-
 **Free-Riding and New Product Adoption: Evidence from Burundi** with [Grady Killeen](https://gkilleen33.github.io), [Rédempteur Ntawiratsa](https://orcid.org/0000-0003-1948-7798) and [Nicholas Swanson](https://nicholasgswanson.github.io) <br/> 
-Pilot in progress
+Endline ongoing
+
+**The Long-Term Consequences of Exposure to Childhood Trauma** with [Hadar Avivi](https://avivihadar.github.io), [Ulrike Malmendier](https://haas.berkeley.edu/faculty/malmendier-ulrike/) and [Maor Milgrom](https://sites.google.com/view/maormilgrom) <br/> 
+Analysis ongoing
+
+
